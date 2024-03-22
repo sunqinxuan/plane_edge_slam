@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libLSD.so -o libLSD.so CMakeFiles/LSD.dir/lsd.c.o -lm 

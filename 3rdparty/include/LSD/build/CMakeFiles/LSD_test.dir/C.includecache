@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sun/shadow_SLAM/3rdparty/LSD/lsd.h
+
+/home/sun/shadow_SLAM/3rdparty/LSD/lsd_cmd.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+ctype.h
+-
+lsd.h
+/home/sun/shadow_SLAM/3rdparty/LSD/lsd.h
+

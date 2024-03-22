@@ -1,0 +1,4 @@
+/home/sun/shadow_SLAM/3rdparty/LSD/build/CMakeFiles/rebuild_cache.dir
+/home/sun/shadow_SLAM/3rdparty/LSD/build/CMakeFiles/edit_cache.dir
+/home/sun/shadow_SLAM/3rdparty/LSD/build/CMakeFiles/LSD_test.dir
+/home/sun/shadow_SLAM/3rdparty/LSD/build/CMakeFiles/LSD.dir

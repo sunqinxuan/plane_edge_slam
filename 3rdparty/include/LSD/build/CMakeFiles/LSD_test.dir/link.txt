@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG   CMakeFiles/LSD_test.dir/lsd_cmd.c.o  -o LSD_test -rdynamic libLSD.so -lm -Wl,-rpath,/home/sun/shadow_SLAM/3rdparty/LSD/build 
